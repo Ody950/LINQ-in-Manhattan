@@ -4,7 +4,7 @@
 
 ## Descreption
 
-In this console application, I have deserializes the json to the data, and then use LINQ Query statements and LINQ method then prints the requested data to the console.library by the user.
+In this console application, I have deserializes the json to the data, and then use LINQ Query statements and LINQ method then prints the requested data to the console.
 
 ## How it work
 
