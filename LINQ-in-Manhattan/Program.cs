@@ -59,7 +59,6 @@ namespace LINQ_in_Manhattan
             public List<Feature> features { get; set; }
         }
 
-
         static void neighborhoods(Root FromJson) //Output all of the neighborhoods in this data list(Final Total: 147 neighborhoods)
 
         {
