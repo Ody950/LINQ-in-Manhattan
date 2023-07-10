@@ -116,7 +116,6 @@ namespace LINQ_in_Manhattan
 
                 }
             }
-
         
         static void singleQuery(Root FromJson) //Rewrite the queries from above and consolidate all into one single query.
 
